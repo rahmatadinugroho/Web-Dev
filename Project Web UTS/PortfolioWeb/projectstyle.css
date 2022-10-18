@@ -1,0 +1,36 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+h2{
+    margin-left: 65px;
+    margin-bottom: 20px;
+    font-weight: bold
+}
+img{
+    margin-left:55px;
+    margin-top: 20px;
+}
+.card{
+    width: 262px    ;
+    margin-top: 8px;
+    margin-left: 8px;
+    border: none;
+}
+.border{
+    background-image: linear-gradient(35deg,#00C2FF,#8862E3,#FF0ECA);
+    width: 280px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+    margin-left: 65px;
+}
+a{
+    text-decoration: none;
+}
+h4{
+    text-align: center;
+    background-image: linear-gradient(55deg,#00C2FF,#8862E3,#FF0ECA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}

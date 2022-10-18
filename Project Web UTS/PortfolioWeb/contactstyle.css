@@ -1,0 +1,40 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.btn{
+font-weight: 600;
+font-family: 'Inter', sans-serif;
+}
+img{
+    margin-top: 100px;
+    margin-left: 65px;
+}
+h2{
+    margin-top: 150px;
+    margin-left: -250px;
+    font-weight: bold;
+}
+.contact{
+    margin-left: -250px;
+    font-size: 28px;
+    padding: 10px;
+}
+i{
+    font-size: 33px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.fa-envelope{
+    color: red;
+}
+.fa-linkedin{
+    color: #0073B1;
+}
+.fa-phone{
+    color: #1CAE04;
+}
+.fa-square-instagram{
+    background-image: linear-gradient(35deg, #F58529, #D22875, #4D56C9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,33 @@
+.about{
+    margin-top: 50px;
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+#quote{
+    text-align: center;
+    opacity: 46%;
+}
+#about{
+    font-weight: bold;
+}
+.btn{
+font-weight: 600;
+font-family: 'Inter', sans-serif;
+}
+p{
+    font-size: 22px;
+}
+.skills{
+    text-align: center;
+    margin-top: 50px;
+}
+#skills{
+    font-weight: bold;
+}
+img{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 600px;
+}
